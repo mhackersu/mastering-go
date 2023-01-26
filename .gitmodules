@@ -1,0 +1,12 @@
+[submodule "ardanlabs/go-training"]
+	path = ardanlabs/go-training
+	url = git@github.com:mhackersu/go-training.git
+[submodule "gte/gte-golang-training"]
+	path = gte/gte-golang-training
+	url = git@github.com:mhackersu/gte-golang-training.git
+[submodule "gte/gte-golang-web-dev"]
+	path = gte/gte-golang-web-dev
+	url = git@github.com:mhackersu/gte-golang-web-dev.git
+[submodule "gte/gte-golang-ninja"]
+	path = gte/gte-golang-ninja
+	url = git@github.com:mhackersu/gte-golang-ninja.git
