@@ -16,3 +16,6 @@
 [submodule "udemy/udemy-webdev-golang"]
 	path = udemy/udemy-webdev-golang
 	url = git@github.com:mhackersu/udemy-webdev-golang.git
+[submodule "learn-go"]
+	path = learn-go
+	url = git@github.com:fostercs/learn-go.git
