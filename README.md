@@ -4,3 +4,6 @@
 
 ## Go Resources
 [GoLang Book](https://www.golang-book.com/)
+
+## IDE
+[Sublime Build](https://github.com/golang/sublime-build)
