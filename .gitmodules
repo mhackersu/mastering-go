@@ -1,0 +1,3 @@
+[submodule "gte/GolangTraining"]
+	path = gte/GolangTraining
+	url = git@github.com:GoesToEleven/GolangTraining.git
