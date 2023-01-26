@@ -7,3 +7,6 @@
 
 ## IDE
 [Sublime Build](https://github.com/golang/sublime-build)
+
+## Go Path
+[Golang Build Configuration](https://github.com/golang/sublime-build/blob/master/docs/configuration.md)
