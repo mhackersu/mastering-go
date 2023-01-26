@@ -1,24 +1,15 @@
-[submodule "gte/GolangTraining"]
-	path = gte/GolangTraining
+[submodule "gte/go-training"]
+	path = gte/go-training
 	url = git@github.com:GoesToEleven/GolangTraining.git
-[submodule "gte/go-programming"]
-	path = gte/go-programming
+[submodule "gte/go-ninja"]
+	path = gte/go-ninja
 	url = git@github.com:GoesToEleven/go-programming.git
-[submodule "gte/golang-web-dev"]
-	path = gte/golang-web-dev
+[submodule "gte/go-web-dev"]
+	path = gte/go-web-dev
 	url = git@github.com:GoesToEleven/golang-web-dev.git
 [submodule "ardanlabs/gotraining"]
 	path = ardanlabs/gotraining
 	url = git@github.com:ardanlabs/gotraining.git
-[submodule "udemy/udemy-lhtc-golang"]
-	path = udemy/udemy-lhtc-golang
-	url = git@github.com:mhackersu/udemy-lhtc-golang.git
-[submodule "udemy/udemy-webdev-golang"]
-	path = udemy/udemy-webdev-golang
-	url = git@github.com:mhackersu/udemy-webdev-golang.git
 [submodule "learn-go"]
 	path = learn-go
 	url = git@github.com:fostercs/learn-go.git
-[submodule "udemy/--force"]
-	path = udemy/--force
-	url = git@github.com:mhackersu/udemy-webdev-golang.git
