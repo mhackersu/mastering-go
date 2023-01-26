@@ -19,3 +19,6 @@
 [submodule "learn-go"]
 	path = learn-go
 	url = git@github.com:fostercs/learn-go.git
+[submodule "udemy/--force"]
+	path = udemy/--force
+	url = git@github.com:mhackersu/udemy-webdev-golang.git
