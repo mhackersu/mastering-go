@@ -3,9 +3,11 @@
 [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/mhackersu/mastering-go)
 
 ## Go Resources
-[GoLang Book](https://www.golang-book.com/)
+[An Introduction to Programming in Go](https://www.golang-book.com/books/intro)
 
 [Go 101](https://go101.org/article/101.html)
+
+[Introducing Go](./resources/introducing-go.pdf)
 
 ## IDE
 [Sublime Build](https://github.com/golang/sublime-build)
