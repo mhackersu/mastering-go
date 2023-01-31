@@ -5,7 +5,7 @@
 ## Go Resources
 [GoLang Book](https://www.golang-book.com/)
 
-[Go 101](https://go101.org/article/101.html#index)
+[Go 101](https://go101.org/article/101.html)
 
 ## IDE
 [Sublime Build](https://github.com/golang/sublime-build)
