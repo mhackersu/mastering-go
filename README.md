@@ -21,4 +21,7 @@
 ## Go Path
 [Golang Build Configuration](https://github.com/golang/sublime-build/blob/master/docs/configuration.md)
 
+## Forums
+[go-nuts: General discussion list for the Go Programming Language](https://groups.google.com/g/golang-nuts)
 
+[Community-driven Go discussion site](https://forum.golangbridge.org/)
